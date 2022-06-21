@@ -6,4 +6,4 @@ Mechanisms of the simulator are described in User Manual as the following:
 https://github.com/mri-kisoo/RespiMotionSimulator/blob/4b7c6fe6fd937229ddeada0dfd670129879f96fa/User%20Manual_v2.pdf
 
 Please contact me if you have any questions and want to use our simulator for your research.
-Contact: kisoo.kim@ucsf.edu
+Contact: ki-soo.kim@ucsf.edu
